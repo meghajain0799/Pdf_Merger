@@ -3,9 +3,9 @@
 The website would help in merging 2 or more pdf files.
 
 ### Site URL
-```bash
+
 https://meghajain0799.github.io/Pdf_Merger/templates/
-```
+
 
 ## Installation
 
